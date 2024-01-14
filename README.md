@@ -1,4 +1,12 @@
-## TODO
+### PEEK
+워크 허브 PEEK 입니다. React & Typescript 기반 프론트 구성 후 기능 연결 예정입니다.
+
+## 개발 기간
+
+2024-01-14 ~ 
+
+
+## Todo
 
 - [Swit](https://swit.io/?utm_source=google&utm_medium=cpc&utm_campaign=kr-232q_essential-brand-traffic-swit-mass&utm_content=sa-adwords_search_ads-all_devices-brand&gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopaJmwZK56h9BICJF4iQGtaICIPhO0oQFfRzFkcLq8iHuJKmk16VeDhoC25sQAvD_BwE) 참조
 - 프로젝트 대시보드
