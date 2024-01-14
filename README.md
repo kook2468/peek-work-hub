@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## TODO
 
 - [Swit](https://swit.io/?utm_source=google&utm_medium=cpc&utm_campaign=kr-232q_essential-brand-traffic-swit-mass&utm_content=sa-adwords_search_ads-all_devices-brand&gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopaJmwZK56h9BICJF4iQGtaICIPhO0oQFfRzFkcLq8iHuJKmk16VeDhoC25sQAvD_BwE) 참조
