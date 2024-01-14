@@ -1,4 +1,4 @@
-### PEEK
+# PEEK
 워크 허브 PEEK 입니다. React & Typescript 기반 프론트 구성 후 기능 연결 예정입니다.
 
 ## 개발 기간
